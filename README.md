@@ -44,5 +44,5 @@ The built-in display connector (**J4**) is routed to the following ESP32 pins[ci
 ## Project Status & Firmware
 
 This repository contains:
-1. **KiCad Production Files:** Schematic (`.kicad_sch`), PCB layout (`.kicad_pcb`), and Gerber files for manufacturing[cite: 2].
+1. **KiCad Production Files:** Schematic (`.kicad_sch`), PCB layout (`.kicad_pcb`), and Gerber files for manufacturing.
 2. **Starter Firmware:** A C++/PlatformIO demo program that initializes the display, tests onboard peripherals, and renders a `"Hello World!"` telemetry screen.
