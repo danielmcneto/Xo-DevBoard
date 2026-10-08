@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [TFT display](https://www.amazon.com/Display-Module-240x240-Interface-Arduino/dp/B0DN9NMBFW/ref=sr_1_3?sr=8-3) | for the built-in display | 1 | $7.99 | $7.99 | [AMAZON](https://www.amazon.com/Display-Module-240x240-Interface-Arduino/dp/B0DN9NMBFW/ref=sr_1_3?sr=8-3) |
 | **Parts subtotal** | — | — | — | **$7.99** | — |
-| **Tax & shipping** | — | — | — | **$15.00** | — |
-| **Total** | — | — | — | **$22.99** | — |
+| **Tax & shipping** | — | — | — | **$20.00** | — |
+| **Total** | — | — | — | **$27.99** | — |
 
-$7.01 left of the tier's funding.
+$2.01 left of the tier's funding.
