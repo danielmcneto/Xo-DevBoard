@@ -15,7 +15,7 @@
 | [TFT display](https://www.amazon.com/Display-Module-240x240-Interface-Arduino/dp/B0DN9NMBFW/ref=sr_1_3?sr=8-3) | for the built-in display | 1 | $7.99 | $7.99 | [AMAZON](https://www.amazon.com/Display-Module-240x240-Interface-Arduino/dp/B0DN9NMBFW/ref=sr_1_3?sr=8-3) |
 | [PCB](https://cart.jlcpcb.com/quote?pcbFileNo=f27b3951ec1d464ea0a774fd6d847a1d&back=true) | Well the pcb | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?pcbFileNo=f27b3951ec1d464ea0a774fd6d847a1d&back=true) |
 | **Parts subtotal** | — | — | — | **$11.99** | — |
-| **Tax & shipping** | — | — | — | **$20.00** | — |
-| **Total** | — | — | — | **$31.99** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$21.99** | — |
 
-**$1.99 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$8.01 left of the tier's funding.
