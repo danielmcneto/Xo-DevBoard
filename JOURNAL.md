@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom, minimalist ESP32-based development board designed for rapid prototyping in robotics and IoT.Hopefully it will feature an integrated USB-to-UART bridge, auto-reset/boot circuitry, clean 3.3V power regulation with decoupling capacitors, and broken-out GPIO pin headers for direct breadboard/sensor integration.
+> A custom, minimalist ESP32-based development board designed for rapid prototyping in robotics and IoT.Hopefully it will feature an integrated USB-to-UART bridge, auto-reset/boot circuitry, clean 3.3V power regulation with decoupling capacitors, and broken-out GPIO pin headers for direct breadboard/sensor integration as well as a built-in display.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
